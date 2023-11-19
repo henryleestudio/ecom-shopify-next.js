@@ -1,0 +1,11 @@
+.Collection1 {
+  &__product-img {
+    width: 480px;
+    height: 600px;
+    background: #f6f6f6;
+  }
+
+  &__product-img img {
+    width: 100%;
+  }
+}
