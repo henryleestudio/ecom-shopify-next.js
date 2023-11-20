@@ -25,7 +25,7 @@ function Collection1() {
           <div className="col-md-4">
            <div className="collection1__collection-item">
               <div className="collection1__product-img">
-                <img src="https://github.com/henryleestudio/exom-shopify-next.js/blob/main/public/images/shoe1.png?raw=true" alt="shoe image" />
+                <img src="https://github.com/henryleestudio/ecom-shopify-next.js/blob/main/public/images/shoe2.png?raw=true" alt="shoe image" />
                 <div className="collection1__product-info">
                   <div className="collection1__product-details">
                     <span className="collection1__product-title">Sneakers</span>
