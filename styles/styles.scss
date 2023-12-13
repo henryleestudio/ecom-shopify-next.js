@@ -6,6 +6,12 @@ body {
   background-color: #f7f9fd;
 }
 
+a{
+  &:hover {
+    color: #fb6f92;
+  }
+}
+
 .fixed-nav {
   &.transparent-nav {
     .header {
