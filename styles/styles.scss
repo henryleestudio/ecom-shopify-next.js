@@ -19,6 +19,13 @@ a{
       a {
         color: white;
       }
+      .header1__collection-link, .header2__collection-link, .header3__collection-link {
+        .collection-link__sub-links {
+          a {
+            color: #2c2952;
+          }
+        }
+      }
     }
   }
 

@@ -20,7 +20,6 @@ export default function Home() {
       <Collection1 />
       <Collection2 />
       <Collection3 />
-      <Footer />
     </MainLayout>
   )
 }

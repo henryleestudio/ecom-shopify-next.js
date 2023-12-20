@@ -9,7 +9,13 @@ export default function Header2() {
       <div className="header2__collections-nav">
         <a href="/link">Link</a>
         <a href="/link">Link</a>
-        <a href="/link">Link</a>
+        <a href="/link" className="header2__collection-link">Link<i className="fa-solid fa-chevron-down"></i>
+          <ul className="collection-link__sub-links">
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+          </ul></a>
       </div>
 
       <div className="header2__collections-nav">
